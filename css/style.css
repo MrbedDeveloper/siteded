@@ -1,0 +1,25 @@
+.head{
+    background-color: blueviolet;
+}
+
+
+hr {
+    border: none; /* Убираем границу */
+    background-color: red; /* Цвет линии */
+    color: red; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+   }
+
+   .brd {
+    border: 1px double black; /* Параметры границы */
+    background: rgb(253, 10, 30); /* Цвет фона */
+    padding: 4px; /* Поля вокруг текста */
+  width: 500px;
+  height: 50px;
+}
+
+.bag {
+    color: blue;
+    background-color: black;
+    height: 50px;
+}
